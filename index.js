@@ -7,3 +7,4 @@ document.body.append(greenCharacter)
 alert('yes')
 alert('no')   
 ////git commit -m "changed font size on navbar"
+//
