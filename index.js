@@ -5,3 +5,4 @@ greenCharacter.style.left = '100px'
 greenCharacter.style.bottom = '100px'
 document.body.append(greenCharacter)
 alert('yes')
+alert('no') 
